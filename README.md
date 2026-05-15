@@ -30,18 +30,6 @@ Focus: Web Development & UI/UX Design
 Currently Learning: React, TypeScript, Python
 ```
 
-# 👨‍💻 About Me
-
-```yaml
-Name: Cyden N. Centeno
-Education: BS Information Technology
-School: New Era University
-Focus: Web Development & UI/UX Design
-Currently Learning: React, TypeScript, Python
-````
-
----
-
 # 🎓 Education
 
 | Degree                    | Institution        | Year           |

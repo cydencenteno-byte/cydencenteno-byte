@@ -28,6 +28,8 @@ I am **Cyden N. Centeno**, with a flair for coding and database management skill
 
 ### Databases
 - IBM DB2 Cloud
+- Supabase
+- MongoDb
 
 ### UI/UX
 - Basic UI/UX Design

@@ -7,7 +7,7 @@
 <h3 align="center">Information Technology Student • Web Developer • Problem Solver</h3>
 
 <p align="center">
-  Passionate about coding, backend development, database management, and UI/UX design.<br>
+  Passionate about coding, backend development, database management, and UI/UX designs.<br>
   Constantly learning new technologies and building projects that improve my skills and creativity.
 </p>
 

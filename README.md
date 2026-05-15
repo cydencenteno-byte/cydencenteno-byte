@@ -1,4 +1,3 @@
-````md id="ghpcyden05"
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Cyden+%F0%9F%91%8B;BSIT+Student;Aspiring+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
@@ -20,6 +19,16 @@
 </p>
 
 ---
+
+# 👨‍💻 About Me
+
+```yaml
+Name: Cyden N. Centeno
+Education: BS Information Technology
+School: New Era University
+Focus: Web Development & UI/UX Design
+Currently Learning: React, TypeScript, Python
+```
 
 # 👨‍💻 About Me
 
